@@ -1,7 +1,7 @@
 # Character Generator (CharGen)
 
-This was my bachelor's thesis project, completed in 2024 at the University of Calabria, Italy.
-A Python desktop application that creates and manages Non‑Player Characters (NPCs) endowed with coherent, Big‑Five‑based personalities and dynamic backstories.  
+This was my bachelor's thesis project, completed in 2024 at the University of Calabria, Italy. <br>
+A Python desktop application that creates and manages Non‑Player Characters (NPCs) endowed with coherent, Big‑Five‑based personalities and dynamic backstories. <br>
 The system couples an easy‑to‑use Tkinter GUI with local Large Language Models (LLMs), allowing real‑time, memory‑aware dialogue generation for role‑playing games and narrative prototypes.
 
 ---
